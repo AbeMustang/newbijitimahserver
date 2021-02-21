@@ -1,0 +1,7 @@
+---
+imagine:
+  command: imagine
+  permission: mineflow.customcommand.op
+  description: try to figure it out
+  subcommands: []
+...

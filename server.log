@@ -1,0 +1,229 @@
+2021-02-21 [15:52:46] [Server thread/INFO]: Loading pocketmine.yml...
+2021-02-21 [15:52:46] [Server thread/INFO]: Loading server properties...
+2021-02-21 [15:52:46] [Server thread/INFO]: Selected English (eng) as the base language
+2021-02-21 [15:52:46] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.16.200
+2021-02-21 [15:52:46] [Server thread/INFO]: Starting remote control listener
+2021-02-21 [15:52:46] [Server thread/INFO]: RCON running on 0.0.0.0:19132
+2021-02-21 [15:52:46] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-02-21 [15:52:46] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2021-02-21 [15:52:46] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2021-02-21 [15:52:46] [Server thread/INFO]: This server is running PocketMine-MP version 3.17.5
+2021-02-21 [15:52:46] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-02-21 [15:52:47] [Server thread/INFO]: Loading resource packs...
+2021-02-21 [15:52:47] [Server thread/NOTICE]: World "world" not found
+2021-02-21 [15:52:47] [Server thread/INFO]: Preparing world "world"
+2021-02-21 [15:52:47] [Server thread/NOTICE]: Spawn terrain for world "world" is being generated in the background
+2021-02-21 [15:52:47] [Server thread/INFO]: Starting GS4 status listener
+2021-02-21 [15:52:47] [Server thread/INFO]: Setting query port to 19132
+2021-02-21 [15:52:47] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2021-02-21 [15:52:47] [Server thread/INFO]: Default game type: Creative Mode
+2021-02-21 [15:52:47] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-02-21 [15:52:47] [Server thread/INFO]: Done (0.701s)! For help, type "help" or "?"
+2021-02-21 [15:54:42] [Server thread/NOTICE]: Player data not found for "bijitimah", creating new profile
+2021-02-21 [15:54:43] [Server thread/INFO]: BijiTimah[/127.0.0.1:52381] logged in with entity id 1 at (world, 256, 68, 256)
+2021-02-21 [15:54:49] [Server thread/INFO]: BijiTimah joined the game
+2021-02-21 [15:55:59] [Server thread/INFO]: BijiTimah left the game
+2021-02-21 [15:55:59] [Server thread/INFO]: BijiTimah[/127.0.0.1:52381] logged out due to client disconnect
+2021-02-21 [15:57:13] [Server thread/INFO]: Loading pocketmine.yml...
+2021-02-21 [15:57:13] [Server thread/INFO]: Loading server properties...
+2021-02-21 [15:57:13] [Server thread/INFO]: Selected English (eng) as the base language
+2021-02-21 [15:57:13] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.16.200
+2021-02-21 [15:57:13] [Server thread/INFO]: Starting remote control listener
+2021-02-21 [15:57:13] [Server thread/INFO]: RCON running on 0.0.0.0:19132
+2021-02-21 [15:57:13] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-02-21 [15:57:13] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2021-02-21 [15:57:13] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2021-02-21 [15:57:14] [Server thread/INFO]: This server is running PocketMine-MP version 3.17.5
+2021-02-21 [15:57:14] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-02-21 [15:57:14] [Server thread/INFO]: Loading resource packs...
+2021-02-21 [15:57:14] [Server thread/INFO]: Loading BuilderTools v1.2.0-beta2
+2021-02-21 [15:57:14] [Server thread/INFO]: Preparing world "world"
+2021-02-21 [15:57:14] [Server thread/INFO]: Enabling BuilderTools v1.2.0-beta2
+2021-02-21 [15:57:14] [Server thread/INFO]: Starting GS4 status listener
+2021-02-21 [15:57:14] [Server thread/INFO]: Setting query port to 19132
+2021-02-21 [15:57:14] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2021-02-21 [15:57:14] [Server thread/INFO]: Default game type: Creative Mode
+2021-02-21 [15:57:14] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-02-21 [15:57:14] [Server thread/INFO]: Done (0.756s)! For help, type "help" or "?"
+2021-02-21 [15:57:45] [Server thread/INFO]: BijiTimah[/127.0.0.1:56370] logged in with entity id 1 at (world, 257.1927, 69, 244.6046)
+2021-02-21 [15:57:50] [Server thread/INFO]: BijiTimah joined the game
+2021-02-21 [16:00:45] [Server thread/INFO]: <BijiTimah> imagine hits i
+2021-02-21 [16:05:25] [Server thread/EMERGENCY]: An unrecoverable error has occurred and the server has crashed. Creating a crash dump
+2021-02-21 [16:05:25] [Server thread/EMERGENCY]: Please upload the "C:\Users\Abe Mustang\Desktop\server\crashdumps/Sun_Feb_21-16.05.25-AWST_2021.log" file to the Crash Archive and submit the link to the Bug Reporting page. Give as much info as you can.
+2021-02-21 [16:05:28] [Server thread/EMERGENCY]: The crash dump has been automatically submitted to the Crash Archive. You can view it on https://crash.pmmp.io/view/4771566 or use the ID #4771566.
+2021-02-21 [16:05:28] [Server thread/INFO]: Disabling BuilderTools v1.2.0-beta2
+2021-02-21 [16:05:28] [Server thread/INFO]: BijiTimah left the game
+2021-02-21 [16:05:28] [Server thread/INFO]: BijiTimah[/127.0.0.1:56370] logged out due to Server closed
+2021-02-21 [16:05:28] [Server thread/INFO]: Unloading world "world"
+2021-02-21 [16:11:28] [Server thread/INFO]: Loading pocketmine.yml...
+2021-02-21 [16:11:28] [Server thread/INFO]: Loading server properties...
+2021-02-21 [16:11:28] [Server thread/INFO]: Selected English (eng) as the base language
+2021-02-21 [16:11:28] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.16.200
+2021-02-21 [16:11:28] [Server thread/INFO]: Starting remote control listener
+2021-02-21 [16:11:28] [Server thread/INFO]: RCON running on 0.0.0.0:19132
+2021-02-21 [16:11:28] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-02-21 [16:11:28] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2021-02-21 [16:11:28] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2021-02-21 [16:11:28] [Server thread/INFO]: This server is running PocketMine-MP version 3.17.5
+2021-02-21 [16:11:28] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-02-21 [16:11:28] [Server thread/INFO]: Loading resource packs...
+2021-02-21 [16:11:28] [Server thread/INFO]: Loading Mineflow v1.3.0
+2021-02-21 [16:11:28] [Server thread/INFO]: Loading BuilderTools v1.2.0-beta2
+2021-02-21 [16:11:28] [Server thread/INFO]: Loading FakePlayers v1.0.0
+2021-02-21 [16:11:28] [Server thread/INFO]: Preparing world "world"
+2021-02-21 [16:11:28] [Server thread/INFO]: Enabling Mineflow v1.3.0
+2021-02-21 [16:11:29] [Server thread/WARNING]: [Mineflow] Economy plugin not found
+2021-02-21 [16:11:29] [Server thread/INFO]: Enabling BuilderTools v1.2.0-beta2
+2021-02-21 [16:11:29] [Server thread/INFO]: Enabling FakePlayers v1.0.0
+2021-02-21 [16:11:29] [Server thread/INFO]: Starting GS4 status listener
+2021-02-21 [16:11:29] [Server thread/INFO]: Setting query port to 19132
+2021-02-21 [16:11:29] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2021-02-21 [16:11:29] [Server thread/INFO]: Default game type: Creative Mode
+2021-02-21 [16:11:29] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-02-21 [16:11:29] [Server thread/INFO]: Done (1.229s)! For help, type "help" or "?"
+2021-02-21 [16:13:26] [Server thread/INFO]: BijiTimah[/127.0.0.1:58498] logged out due to timeout
+2021-02-21 [16:16:23] [Server thread/INFO]: BijiTimah[/127.0.0.1:61341] logged in with entity id 1 at (world, 361.4165, 65, 270.3753)
+2021-02-21 [16:16:29] [Server thread/INFO]: BijiTimah joined the game
+2021-02-21 [16:20:28] [Server thread/INFO]: [BijiTimah: Given Diamond Sword (276:0) * 1 to BijiTimah]
+2021-02-21 [16:23:42] [Server thread/INFO]: <BijiTimah> imagine
+2021-02-21 [16:25:20] [Server thread/INFO]: BijiTimah left the game
+2021-02-21 [16:25:20] [Server thread/INFO]: BijiTimah[/127.0.0.1:61341] logged out due to client disconnect
+2021-02-21 [17:11:55] [Server thread/INFO]: Loading pocketmine.yml...
+2021-02-21 [17:11:55] [Server thread/INFO]: Loading server properties...
+2021-02-21 [17:11:55] [Server thread/INFO]: Selected English (eng) as the base language
+2021-02-21 [17:11:55] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.16.200
+2021-02-21 [17:11:56] [Server thread/INFO]: Starting remote control listener
+2021-02-21 [17:11:56] [Server thread/INFO]: RCON running on 0.0.0.0:19132
+2021-02-21 [17:11:56] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-02-21 [17:11:56] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2021-02-21 [17:11:56] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2021-02-21 [17:11:56] [Server thread/INFO]: This server is running PocketMine-MP version 3.17.5
+2021-02-21 [17:11:56] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-02-21 [17:11:56] [Server thread/INFO]: Loading resource packs...
+2021-02-21 [17:11:56] [Server thread/INFO]: Loading FakePlayers v1.0.0
+2021-02-21 [17:11:56] [Server thread/INFO]: Loading BuilderTools v1.2.0-beta2
+2021-02-21 [17:11:56] [Server thread/INFO]: Loading Mineflow v1.3.0
+2021-02-21 [17:11:56] [Server thread/INFO]: Preparing world "world"
+2021-02-21 [17:11:56] [Server thread/INFO]: Enabling FakePlayers v1.0.0
+2021-02-21 [17:11:56] [Server thread/INFO]: Enabling BuilderTools v1.2.0-beta2
+2021-02-21 [17:11:56] [Server thread/INFO]: Enabling Mineflow v1.3.0
+2021-02-21 [17:11:56] [Server thread/WARNING]: [Mineflow] Economy plugin not found
+2021-02-21 [17:11:56] [Server thread/INFO]: Starting GS4 status listener
+2021-02-21 [17:11:56] [Server thread/INFO]: Setting query port to 19132
+2021-02-21 [17:11:56] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2021-02-21 [17:11:56] [Server thread/INFO]: Default game type: Creative Mode
+2021-02-21 [17:11:56] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-02-21 [17:11:56] [Server thread/INFO]: Done (1.002s)! For help, type "help" or "?"
+2021-02-21 [17:13:58] [Server thread/INFO]: BijiTimah[/127.0.0.1:56733] logged in with entity id 1 at (world, 402.8447, 79.9388, 276.773)
+2021-02-21 [17:14:03] [Server thread/INFO]: BijiTimah joined the game
+2021-02-21 [17:14:39] [Server thread/INFO]: BijiTimah left the game
+2021-02-21 [17:14:39] [Server thread/INFO]: BijiTimah[/127.0.0.1:56733] logged out due to timeout
+2021-02-21 [17:16:00] [Server thread/INFO]: BijiTimah[/127.0.0.1:56807] logged in with entity id 2 at (world, 399.3, 64, 306.71)
+2021-02-21 [17:16:05] [Server thread/INFO]: BijiTimah joined the game
+2021-02-21 [17:16:07] [Server thread/INFO]: <BijiTimah>  make
+2021-02-21 [17:18:29] [Server thread/INFO]: Loading pocketmine.yml...
+2021-02-21 [17:18:29] [Server thread/INFO]: Loading server properties...
+2021-02-21 [17:18:29] [Server thread/INFO]: Selected English (eng) as the base language
+2021-02-21 [17:18:29] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.16.200
+2021-02-21 [17:18:29] [Server thread/INFO]: Starting remote control listener
+2021-02-21 [17:18:29] [Server thread/INFO]: RCON running on 0.0.0.0:19132
+2021-02-21 [17:18:29] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-02-21 [17:18:29] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2021-02-21 [17:18:29] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2021-02-21 [17:18:29] [Server thread/INFO]: This server is running PocketMine-MP version 3.17.5
+2021-02-21 [17:18:29] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-02-21 [17:18:29] [Server thread/INFO]: Loading resource packs...
+2021-02-21 [17:18:29] [Server thread/INFO]: Loading BuilderTools v1.2.0-beta2
+2021-02-21 [17:18:29] [Server thread/INFO]: Loading Mineflow v1.3.0
+2021-02-21 [17:18:29] [Server thread/INFO]: Loading FakePlayers v1.0.0
+2021-02-21 [17:18:29] [Server thread/INFO]: Preparing world "world"
+2021-02-21 [17:18:29] [Server thread/INFO]: Enabling BuilderTools v1.2.0-beta2
+2021-02-21 [17:18:29] [Server thread/INFO]: Enabling Mineflow v1.3.0
+2021-02-21 [17:18:29] [Server thread/WARNING]: [Mineflow] Economy plugin not found
+2021-02-21 [17:18:30] [Server thread/INFO]: Enabling FakePlayers v1.0.0
+2021-02-21 [17:18:30] [Server thread/INFO]: Starting GS4 status listener
+2021-02-21 [17:18:30] [Server thread/INFO]: Setting query port to 19132
+2021-02-21 [17:18:30] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2021-02-21 [17:18:30] [Server thread/INFO]: Default game type: Creative Mode
+2021-02-21 [17:18:30] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-02-21 [17:18:30] [Server thread/INFO]: Done (1.063s)! For help, type "help" or "?"
+2021-02-21 [17:18:43] [Server thread/INFO]: BijiTimah[/127.0.0.1:56807] logged in with entity id 1 at (world, 366.5176, 104.7688, 308.7951)
+2021-02-21 [17:18:43] [Server thread/INFO]: --- Showing help page 1 of 1 (/help <page>) ---
+2021-02-21 [17:18:43] [Server thread/INFO]: //blockinfo: Switch block info mode
+2021-02-21 [17:18:43] [Server thread/INFO]: //clearinventory: Clear inventory
+2021-02-21 [17:18:43] [Server thread/INFO]: //commands: Displays BuilderTools commands
+2021-02-21 [17:18:43] [Server thread/INFO]: //copy: Copy selected area
+2021-02-21 [17:18:43] [Server thread/INFO]: //cube: Create cube
+2021-02-21 [17:18:43] [Server thread/INFO]: //cylinder: Create cylinder
+2021-02-21 [17:18:43] [Server thread/INFO]: //draw: Draw witch blocks
+2021-02-21 [17:18:43] [Server thread/INFO]: //fill: Fill selected positions.
+2021-02-21 [17:18:43] [Server thread/INFO]: //fix: Fix selected area
+2021-02-21 [17:18:43] [Server thread/INFO]: //flip: Flip selected area
+2021-02-21 [17:18:43] [Server thread/INFO]: //hcube: Create hollow cube
+2021-02-21 [17:18:43] [Server thread/INFO]: //hcylinder: Create hollow cylinder
+2021-02-21 [17:18:43] [Server thread/INFO]: //hpyramid: Create hollow pyramid
+2021-02-21 [17:18:43] [Server thread/INFO]: //hsphere: Create hollow sphere
+2021-02-21 [17:18:43] [Server thread/INFO]: //id: Send id of item in your hands
+2021-02-21 [17:18:43] [Server thread/INFO]: //merge: Merge copied area
+2021-02-21 [17:18:43] [Server thread/INFO]: //move: Move selected area
+2021-02-21 [17:18:43] [Server thread/INFO]: //naturalize: Naturalize selected area.
+2021-02-21 [17:18:43] [Server thread/INFO]: //outline: Fills hollow selected area.
+2021-02-21 [17:18:43] [Server thread/INFO]: //paste: Paste copied area
+2021-02-21 [17:18:43] [Server thread/INFO]: //pos1: Select first position
+2021-02-21 [17:18:43] [Server thread/INFO]: //pos2: Select second position
+2021-02-21 [17:18:43] [Server thread/INFO]: //pyramid: Create pyramid
+2021-02-21 [17:18:43] [Server thread/INFO]: //redo: Redo last BuilderTools actions
+2021-02-21 [17:18:43] [Server thread/INFO]: //replace: Replace selected blocks
+2021-02-21 [17:18:43] [Server thread/INFO]: //rotate: Rotate selected area
+2021-02-21 [17:18:43] [Server thread/INFO]: //schematic: Schematics commands
+2021-02-21 [17:18:43] [Server thread/INFO]: //sphere: Create sphere
+2021-02-21 [17:18:43] [Server thread/INFO]: //stack: Stack copied area
+2021-02-21 [17:18:43] [Server thread/INFO]: //tree: Place tree object
+2021-02-21 [17:18:43] [Server thread/INFO]: //undo: Undo last BuilderTools actions
+2021-02-21 [17:18:43] [Server thread/INFO]: //wand: Switch wand tool
+2021-02-21 [17:18:43] [Server thread/INFO]: /ban: Prevents the specified player from using this server
+2021-02-21 [17:18:43] [Server thread/INFO]: /ban-ip: Prevents the specified IP address from using this server
+2021-02-21 [17:18:43] [Server thread/INFO]: /banlist: View all players banned from this server
+2021-02-21 [17:18:44] [Server thread/INFO]: /defaultgamemode: Set the default gamemode
+2021-02-21 [17:18:44] [Server thread/INFO]: /deop: Takes the specified player's operator status
+2021-02-21 [17:18:44] [Server thread/INFO]: /difficulty: Sets the game difficulty
+2021-02-21 [17:18:44] [Server thread/INFO]: /dumpmemory: Dumps the memory
+2021-02-21 [17:18:44] [Server thread/INFO]: /effect: Adds/Removes effects on players
+2021-02-21 [17:18:44] [Server thread/INFO]: /enchant: Adds enchantments on items
+2021-02-21 [17:18:44] [Server thread/INFO]: /fakeplayer: Spawn in a fake player!
+2021-02-21 [17:18:44] [Server thread/INFO]: /gamemode: Changes the player to a specific game mode
+2021-02-21 [17:18:44] [Server thread/INFO]: /gc: Fires garbage collection tasks
+2021-02-21 [17:18:44] [Server thread/INFO]: /give: Gives the specified player a certain amount of items
+2021-02-21 [17:18:44] [Server thread/INFO]: /help: Shows the help menu
+2021-02-21 [17:18:44] [Server thread/INFO]: /imagine: try to figure it out
+2021-02-21 [17:18:44] [Server thread/INFO]: /kick: Removes the specified player from the server
+2021-02-21 [17:18:44] [Server thread/INFO]: /kill: Commit suicide or kill other players
+2021-02-21 [17:18:44] [Server thread/INFO]: /list: Lists all online players
+2021-02-21 [17:18:44] [Server thread/INFO]: /me: Performs the specified action in chat
+2021-02-21 [17:18:44] [Server thread/INFO]: /mineflow: do something when conditions are met or when an event occurs
+2021-02-21 [17:18:44] [Server thread/INFO]: /op: Gives the specified player operator status
+2021-02-21 [17:18:44] [Server thread/INFO]: /pardon: Allows the specified player to use this server
+2021-02-21 [17:18:44] [Server thread/INFO]: /pardon-ip: Allows the specified IP address to use this server
+2021-02-21 [17:18:44] [Server thread/INFO]: /particle: Adds particles to a world
+2021-02-21 [17:18:44] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+2021-02-21 [17:18:44] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+2021-02-21 [17:18:44] [Server thread/INFO]: /save-all: Saves the server to disk
+2021-02-21 [17:18:44] [Server thread/INFO]: /save-off: Disables server autosaving
+2021-02-21 [17:18:44] [Server thread/INFO]: /save-on: Enables server autosaving
+2021-02-21 [17:18:44] [Server thread/INFO]: /say: Broadcasts the given message as the sender
+2021-02-21 [17:18:44] [Server thread/INFO]: /seed: Shows the world seed
+2021-02-21 [17:18:44] [Server thread/INFO]: /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2021-02-21 [17:18:44] [Server thread/INFO]: /spawnpoint: Sets a player's spawn point
+2021-02-21 [17:18:44] [Server thread/INFO]: /status: Reads back the server's performance.
+2021-02-21 [17:18:44] [Server thread/INFO]: /stop: Stops the server
+2021-02-21 [17:18:44] [Server thread/INFO]: /tell: Sends a private message to the given player
+2021-02-21 [17:18:44] [Server thread/INFO]: /time: Changes the time on each world
+2021-02-21 [17:18:44] [Server thread/INFO]: /timings: Records timings to see performance of the server.
+2021-02-21 [17:18:44] [Server thread/INFO]: /title: Controls screen titles
+2021-02-21 [17:18:44] [Server thread/INFO]: /tp: Teleports the given player (or yourself) to another player or coordinates
+2021-02-21 [17:18:44] [Server thread/INFO]: /transferserver: Transfer yourself to another server
+2021-02-21 [17:18:44] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+2021-02-21 [17:18:44] [Server thread/INFO]: /whitelist: Manages the list of players allowed to use this server
+2021-02-21 [17:18:48] [Server thread/INFO]: BijiTimah joined the game
+2021-02-21 [17:22:51] [Server thread/INFO]: BijiTimah left the game
+2021-02-21 [17:22:51] [Server thread/INFO]: BijiTimah[/127.0.0.1:56807] logged out due to timeout

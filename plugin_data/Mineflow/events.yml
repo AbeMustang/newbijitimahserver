@@ -1,0 +1,31 @@
+---
+pocketmine\event\player\PlayerChatEvent: true
+pocketmine\event\player\PlayerCommandPreprocessEvent: true
+pocketmine\event\player\PlayerInteractEvent: true
+pocketmine\event\player\PlayerJoinEvent: true
+pocketmine\event\player\PlayerQuitEvent: false
+pocketmine\event\block\BlockBreakEvent: true
+pocketmine\event\block\BlockPlaceEvent: true
+aieuo\mineflow\event\ServerStartEvent: true
+pocketmine\event\block\SignChangeEvent: false
+pocketmine\event\entity\EntityDamageEvent: true
+aieuo\mineflow\event\EntityAttackEvent: true
+pocketmine\event\player\PlayerToggleFlightEvent: true
+pocketmine\event\player\PlayerDeathEvent: true
+pocketmine\event\entity\EntityDeathEvent: false
+pocketmine\event\entity\EntityLevelChangeEvent: true
+pocketmine\event\inventory\CraftItemEvent: true
+pocketmine\event\player\PlayerDropItemEvent: false
+pocketmine\event\inventory\FurnaceBurnEvent: false
+pocketmine\event\level\LevelLoadEvent: false
+pocketmine\event\player\PlayerBedEnterEvent: false
+pocketmine\event\player\PlayerChangeSkinEvent: false
+pocketmine\event\player\PlayerExhaustEvent: false
+pocketmine\event\player\PlayerItemConsumeEvent: false
+pocketmine\event\player\PlayerMoveEvent: false
+pocketmine\event\player\PlayerToggleSneakEvent: false
+pocketmine\event\player\PlayerToggleSprintEvent: false
+pocketmine\event\entity\ProjectileHitEntityEvent: false
+pocketmine\event\player\PlayerJumpEvent: false
+pocketmine\event\inventory\InventoryPickupItemEvent: false
+...
